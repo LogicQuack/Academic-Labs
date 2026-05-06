@@ -74,4 +74,6 @@ Lastly, we can use the same logic for the final alert as before.
 
 ### Reference
 
+https://www.cisco.com/c/en/us/support/docs/ip/simple-network-management-protocol-snmp/7282-12.html  
+
 https://docs.suricata.io/en/suricata-6.0.0/make-sense-alerts.html  
