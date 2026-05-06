@@ -10,3 +10,6 @@ Finally, time manipulation is something that applies to the previous strategies 
 
 In conclusion, IDSs like Snort can be powerful at detecting suspicious signs in a network. However, through various means including packet fragmentation, spoofing, and time manipulation, evasion is possible. Packet fragmentation breaks up packets into separate chunks. Spoofing is where the source of a packet is falsified like a fake IP or port. Lastly, time manipulation is important for slow scans that provide fruitful outcomes. Time and patience will lead to the best results. 
 
+# Reference
+
+Walker, M. (2022). Vitalsource Epub Ebook for CEH Certified Ethical Hacker All-in-One Exam Guide, Perpetual Access (5th ed.). McGraw-Hill Learning Solutions. https://purdueuniversityglobal.vitalsource.com/books/9781265070250 
